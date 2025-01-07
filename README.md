@@ -1,0 +1,1 @@
+An interactive C++ project that allows users to perform various operations on a Red-Black Tree, including adding nodes, deleting nodes, finding successors/predecessors, and more. The project includes graphical visualizations using the SFML library to help users better understand tree structures and key operations.
